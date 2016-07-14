@@ -1,0 +1,45 @@
+permalink: /:year-:month-:day/:title/
+
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input:  GFM
+  syntax_highlighter: rouge
+
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: ":num"
+baseurl: ""
+
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      styles : [highlight.css,post.css]
+      scripts : [post.js]
+
+
+
+title: "osgjs"
+email: "f35457@qq.com"
+description: "Developer"
+github_username:  "fav"
+swiftype_searchId: ""
+disqus_shortname: "Elusive57"
+
+
+
+
+url: "http://fav.github.io/forstudy"
+imgrepo: "http://fav.github.io/forstudy/static/img"
+
+
+#url: "http://127.0.0.1:4000"
+#imgrepo: "http://127.0.0.1:4000/static/img"
+
