@@ -38,7 +38,7 @@ imgblog: "http://oa1dh8fyl.bkt.clouddn.com"
 
 url: "https://fav.github.io/forstudy"
 imgrepo: "https://fav.github.io/forstudy/static/img"
-
+static: "https://fav.github.io/forstudy/static"
 
 #url: "http://127.0.0.1:4000"
 #imgrepo: "http://127.0.0.1:4000/static/img"
