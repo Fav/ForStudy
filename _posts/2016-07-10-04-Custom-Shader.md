@@ -41,12 +41,20 @@ viewer = new osgViewer.Viewer( canvas, {
     alpha: true
 } );
 ```
-可以设置的参数有以下一些
-alpha: true
-antialias: true
-enableFrustumCulling: false
-fullscreen: true
-scrollwheel: true
-stats: false
-webgl2: false
+可以设置的参数有以下一些"
+
++ alpha: true
+
++ antialias: true
+
++ enableFrustumCulling: false
+
++ fullscreen: true
+
++ scrollwheel: true
+
++ stats: false
+
++ webgl2: false
+
 

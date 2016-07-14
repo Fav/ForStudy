@@ -30,5 +30,5 @@ mainNode.addChild( shadowedScene );
 可以看到阴影的实现是在 osgShadow，而光照是在osg 模块下；
 整个代码结构如下：
 
-![物体结构](http://oa1dh8fyl.bkt.clouddn.com/osg-Lesson12.jpg)
+![物体结构]({{"/osg-Lesson12.jpg" | prepend: site.imgblog }})
 

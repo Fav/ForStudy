@@ -29,6 +29,7 @@ var targetModel2 = osg.createTexturedSphere( 10, 30, 30 );
 
 //var createTexturedSphere = function ( radius, widthSegments, heightSegments, phiStart, phiLength, thetaStart, thetaLength ) {}
 ```
+
 ### 单面渲染
 
 ```
