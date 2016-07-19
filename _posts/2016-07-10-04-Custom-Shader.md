@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lesson04-自定义着色器
-tags: osgjs
+tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
 

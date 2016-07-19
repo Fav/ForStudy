@@ -1,7 +1,7 @@
 ---
 layout: post
 title: osgb Lod转换成osgjs模型，纹理不显示问题
-tags: osgjs
+tags: osgjs问题解决
 categories: 经验
 ---
 

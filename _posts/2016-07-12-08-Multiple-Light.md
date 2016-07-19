@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lesson08-多光源
-tags: osgjs
+tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
 [官方效果展示](http://codepen.io/osgjs/pen/pEvmo)

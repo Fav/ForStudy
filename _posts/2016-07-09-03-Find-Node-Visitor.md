@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lesson03-节点查找
-tags: osgjs
+tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lesson02-光的动画效果
-tags: osgjs
+tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
 
