@@ -4,7 +4,7 @@ title: Lesson11-自定义光照范围
 tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
-[官方效果展示](http://codepen.io/osgjs/pen/KIlrg)
+[官方效果展示](http://codepen.io/osgjs/pen/KIlrg){:target="_blank"}
 
 
 
@@ -36,7 +36,7 @@ var targetModel2 = osg.createTexturedSphere( 10, 30, 30 );
 lightNode.getOrCreateStateSet().setAttributeAndModes( new osg.CullFace( 'BACK' ) );
 ```
 
-[第一课]({{"/2016-07-09/01-Transform/"| prepend: site.url}})里面提到过 CullFace，这里复习一下;
+[第一课]({{"/2016-07-09/01-Transform/"| prepend: site.url}}){:target="_blank"}里面提到过 CullFace，这里复习一下;
 osgjs里面CullFace的枚举值为：
 - CullFace.DISABLE = 0x0;
 - CullFace.FRONT = 0x0404;

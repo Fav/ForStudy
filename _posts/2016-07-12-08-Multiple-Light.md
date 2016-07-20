@@ -4,7 +4,7 @@ title: Lesson08-多光源
 tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
-[官方效果展示](http://codepen.io/osgjs/pen/pEvmo)
+[官方效果展示](http://codepen.io/osgjs/pen/pEvmo){:target="_blank"}
 
  看一下整个程序的节点结构：
  
@@ -14,7 +14,7 @@ categories: osgjs官方教程笔记
 ## 知识点
 
 ### 灯光属性设置
-灯光的概念、使用和 [webgl的灯光](http://www.glprogramming.com/red/chapter05.html) 一致
+灯光的概念、使用和 [webgl的灯光](http://www.glprogramming.com/red/chapter05.html){:target="_blank"}一致
 
 这里对于光照大部分参数进行了设置
 

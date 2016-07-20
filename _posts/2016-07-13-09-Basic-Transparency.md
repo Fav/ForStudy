@@ -4,7 +4,7 @@ title: Lesson09-透明度基础
 tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
-[官方效果展示](http://codepen.io/osgjs/pen/jmqkJ)
+[官方效果展示](http://codepen.io/osgjs/pen/jmqkJ){:target="_blank"}
 
 这一节基本上所有的代码都在之前的内容中见过
 

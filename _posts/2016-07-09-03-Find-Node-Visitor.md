@@ -6,7 +6,7 @@ categories: osgjs官方教程笔记
 ---
 
 
-[官方效果展示](http://codepen.io/osgjs/pen/GsAzw)
+[官方效果展示](http://codepen.io/osgjs/pen/GsAzw){:target="_blank"}
 
 这一节看上去也有很多熟悉的地方，整理一下思路:
 1. 获取canvas

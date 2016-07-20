@@ -4,7 +4,7 @@ title: Lesson12-阴影基础
 tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
-[官方效果展示](http://codepen.io/osgjs/pen/qEmxov)
+[官方效果展示](http://codepen.io/osgjs/pen/qEmxov){:target="_blank"}
 
 
 ## 知识点

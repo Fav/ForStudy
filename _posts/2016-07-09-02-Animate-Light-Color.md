@@ -5,7 +5,7 @@ tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
 
-[官方效果展示](http://codepen.io/osgjs/pen/xzeFH)
+[官方效果展示](http://codepen.io/osgjs/pen/xzeFH){:target="_blank"}
 
 看到源码是不是很开心，很熟悉^^
 

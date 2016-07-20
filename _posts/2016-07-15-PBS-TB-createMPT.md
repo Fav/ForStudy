@@ -5,7 +5,7 @@ tags: skyline PortableBasemapServer pbs terrabuilder MPT
 categories: 经验 教程
 ---
 
-PortableBasemapServer [下载地址]( http://geopbs.codeplex.com/)
+PortableBasemapServer [下载地址]( http://geopbs.codeplex.com/){:target="_blank"}
 
 ### 下载数据
 1. 打开PortableBasemapServer   

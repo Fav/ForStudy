@@ -4,7 +4,7 @@ title: Lesson06-高级定制着色器
 tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
-[官方效果展示](http://codepen.io/osgjs/pen/Ffhrc)
+[官方效果展示](http://codepen.io/osgjs/pen/Ffhrc){:target="_blank"}
 
 着色器的使用请参考《WebGL编程指南》第二章入门的“着色器是什么”以及第六章“OpenGL ES 着色器语言(GLSL ES)”
 

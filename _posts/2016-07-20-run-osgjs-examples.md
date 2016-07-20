@@ -5,7 +5,7 @@ tags: osgjs问题解决
 categories: 经验
 ---
 
-进入 [osgjs官方网站](http://osgjs.org/) 点击download 下载最新的包 osgjs-develop.zip 解压到英文目录下
+进入 [osgjs官方网站](http://osgjs.org/){:target="_blank"} 点击download 下载最新的包 osgjs-develop.zip 解压到英文目录下
 
 ### windws部署到 IIS 下
 1. 本机安装 IIS（不会安装请google）

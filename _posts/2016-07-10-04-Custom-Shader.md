@@ -5,7 +5,7 @@ tags: osgjs官方教程笔记
 categories: osgjs官方教程笔记
 ---
 
-[官方效果展示](http://codepen.io/osgjs/pen/hzfvq)
+[官方效果展示](http://codepen.io/osgjs/pen/hzfvq){:target="_blank"}
 
 着色器的使用请参考《WebGL编程指南》第二章入门的“着色器是什么”
 

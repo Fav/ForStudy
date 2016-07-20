@@ -11,7 +11,7 @@ categories: 经验
 
 但是（osgb->obj->osgjs）这种方式生成的成果不能分级显示，而且生成的文件占空间比较大，不利于网络传输
  
-[测试工程网址](https://github.com/Fav/learn_osgjs/tree/master/lesson01)
+[测试工程网址](https://github.com/Fav/learn_osgjs/tree/master/lesson01){:target="_blank"}
 
 ![img]({{"/osgjsLodBlack/image001.png" | prepend: site.imgblog }})
 
