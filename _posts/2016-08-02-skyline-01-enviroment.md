@@ -19,7 +19,7 @@ categories: Skyline web开发教程
 
 ### 代码下载
 
-链接: [https://pan.baidu.com/s/1mi6Nzle](https://pan.baidu.com/s/1mi6Nzle) 密码: ekhu
+链接: [https://pan.baidu.com/s/1mi6Nzle](https://pan.baidu.com/s/1mi6Nzle){:target="_blank"} 密码: ekhu
 
 
 注： 做skyline web开发最好对TerraExplorer 软件有一定的了解 ,很多三维球初始化的工作都可以在fly文件里面配置，比如初始化位置，视角，是否显示屏幕中心十字丝...等等
