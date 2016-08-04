@@ -15,7 +15,16 @@ categories: Skyline web开发教程
 
 ### 服务器部署
 
-需要 terraGate，暂时不涉及这部分内容
+- 软件：TerraGate 安装包
+
+- 注意事项：
+
+安装之前，先把从官方获取的lic文件（SLFeatureServer.lic 和 SLTerraGate.lic）放到安装目录中，再开始安装，不然有可能出现服务无法启动，或者TerraGate SFS Administration无法进入登录界面的问题
+
+terrain service 的端口最好改一下（默认是80），改成81，或者没有使用的
+
+有些软件会占用 443 端口（svn服务器等），也会造成terrain service无法启动
+
 
 ### 代码下载
 
