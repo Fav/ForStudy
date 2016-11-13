@@ -2,7 +2,7 @@
 layout: post
 title: cesium-viewer
 tags: cesiumjs
-categories: cesiumjs教程
+categories: cesiumjs文档
 ---
 
 调用方法
