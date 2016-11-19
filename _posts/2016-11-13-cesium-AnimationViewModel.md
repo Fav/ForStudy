@@ -1,6 +1,6 @@
 ---
 layout: post
-title: cesium-Animation
+title: cesium-AnimationViewModel
 tags: cesiumjs
 categories: cesiumjs文档
 ---
