@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1124" height="796" viewBox="0 0 1124 796">
+  <!--Create by Blumind, you can download it free from http://blumind.org -->
+  <title>新页面 1</title>
+  <defs>
+    <style>
+svg {background-color:#D8CAA8;}
+</style>
+  </defs>
+  <g id="canvas">
+    <polyline points="96,186 96,206 96,206 163,206" fill="none" stroke="#88785E" />
+    <rect x="0" y="0" width="67" height="41" fill="#363942" stroke="none" transform="translate(63 145)" />
+    <rect x="0" y="0" width="67" height="41" fill="none" stroke="#382513" transform="translate(63 145)" />
+    <text fill="#F2F0E4" x="12" y="12" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(63 145)">
+      <tspan x="12" y="25">viewer</tspan>
+    </text>
+    <polyline points="244,217 244,237 244,237 311,237" fill="none" stroke="#88785E" />
+    <polyline points="244,217 244,423 244,423 311,423" fill="none" stroke="#88785E" />
+    <polyline points="244,217 244,609 244,609 311,609" fill="none" stroke="#88785E" />
+    <polyline points="244,217 244,640 244,640 311,640" fill="none" stroke="#88785E" />
+    <rect x="0" y="0" width="136" height="21" fill="#5C832F" stroke="none" transform="translate(176 196)" />
+    <rect x="0" y="0" width="136" height="21" fill="none" stroke="#382513" transform="translate(176 196)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(176 196)">
+      <tspan x="2" y="15">mainNode(osg.Node)</tspan>
+    </text>
+    <polyline points="411,248 411,268 411,268 491,268" fill="none" stroke="#88785E" />
+    <polyline points="411,248 411,299 411,299 491,299" fill="none" stroke="#88785E" />
+    <polyline points="411,248 411,330 411,330 491,330" fill="none" stroke="#88785E" />
+    <polyline points="411,248 411,361 411,361 491,361" fill="none" stroke="#88785E" />
+    <polyline points="411,248 411,392 411,392 491,392" fill="none" stroke="#88785E" />
+    <rect x="0" y="0" width="175" height="21" fill="#5C832F" stroke="none" transform="translate(324 227)" />
+    <rect x="0" y="0" width="175" height="21" fill="none" stroke="#382513" transform="translate(324 227)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(324 227)">
+      <tspan x="2" y="15">group(osg.MatrixTransform)</tspan>
+    </text>
+    <rect x="0" y="0" width="254" height="21" fill="#5C832F" stroke="none" transform="translate(491 258)" />
+    <rect x="0" y="0" width="254" height="21" fill="none" stroke="#382513" transform="translate(491 258)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(491 258)">
+      <tspan x="2" y="15">ground(osg.createTexturedBoxGeometry)</tspan>
+    </text>
+    <rect x="0" y="0" width="254" height="21" fill="#5C832F" stroke="none" transform="translate(491 289)" />
+    <rect x="0" y="0" width="254" height="21" fill="none" stroke="#382513" transform="translate(491 289)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(491 289)">
+      <tspan x="2" y="15">ground(osg.createTexturedBoxGeometry)</tspan>
+    </text>
+    <rect x="0" y="0" width="254" height="21" fill="#5C832F" stroke="none" transform="translate(491 320)" />
+    <rect x="0" y="0" width="254" height="21" fill="none" stroke="#382513" transform="translate(491 320)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(491 320)">
+      <tspan x="2" y="15">ground(osg.createTexturedBoxGeometry)</tspan>
+    </text>
+    <rect x="0" y="0" width="254" height="21" fill="#5C832F" stroke="none" transform="translate(491 351)" />
+    <rect x="0" y="0" width="254" height="21" fill="none" stroke="#382513" transform="translate(491 351)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(491 351)">
+      <tspan x="2" y="15">ground(osg.createTexturedBoxGeometry)</tspan>
+    </text>
+    <rect x="0" y="0" width="254" height="21" fill="#5C832F" stroke="none" transform="translate(491 382)" />
+    <rect x="0" y="0" width="254" height="21" fill="none" stroke="#382513" transform="translate(491 382)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(491 382)">
+      <tspan x="2" y="15">ground(osg.createTexturedBoxGeometry)</tspan>
+    </text>
+    <ellipse cx="317" cy="237" rx="6" ry="6" fill="#F5F5F5" stroke="none" />
+    <ellipse cx="317" cy="237" rx="6" ry="6" fill="none" stroke="#696969" />
+    <rect x="314" y="237" width="7" height="1" fill="#696969" stroke="none" />
+    <polyline points="481,434 481,454 481,454 548,454" fill="none" stroke="#88785E" />
+    <polyline points="481,434 481,516 481,516 548,516" fill="none" stroke="#88785E" />
+    <polyline points="481,434 481,578 481,578 561,578" fill="none" stroke="#88785E" />
+    <rect x="0" y="0" width="315" height="21" fill="#5C832F" stroke="none" transform="translate(324 413)" />
+    <rect x="0" y="0" width="315" height="21" fill="none" stroke="#382513" transform="translate(324 413)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(324 413)">
+      <tspan x="2" y="15">lightNodemodelNodeParent1(osg.MatrixTransform)</tspan>
+    </text>
+    <polyline points="662,465 662,485 662,485 742,485" fill="none" stroke="#88785E" />
+    <rect x="0" y="0" width="203" height="21" fill="#5C832F" stroke="none" transform="translate(561 444)" />
+    <rect x="0" y="0" width="203" height="21" fill="none" stroke="#382513" transform="translate(561 444)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(561 444)">
+      <tspan x="2" y="15">lightSourcenew(osg.LightSource)</tspan>
+    </text>
+    <rect x="0" y="0" width="122" height="21" fill="#5C832F" stroke="none" transform="translate(742 475)" />
+    <rect x="0" y="0" width="122" height="21" fill="none" stroke="#382513" transform="translate(742 475)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(742 475)">
+      <tspan x="2" y="15">lightnew(osg.Light)</tspan>
+    </text>
+    <ellipse cx="554" cy="454" rx="6" ry="6" fill="#F5F5F5" stroke="none" />
+    <ellipse cx="554" cy="454" rx="6" ry="6" fill="none" stroke="#696969" />
+    <rect x="551" y="454" width="7" height="1" fill="#696969" stroke="none" />
+    <polyline points="695,527 695,547 695,547 775,547" fill="none" stroke="#88785E" />
+    <rect x="0" y="0" width="269" height="21" fill="#5C832F" stroke="none" transform="translate(561 506)" />
+    <rect x="0" y="0" width="269" height="21" fill="none" stroke="#382513" transform="translate(561 506)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(561 506)">
+      <tspan x="2" y="15">lightNodemodelNode(osg.MatrixTransform)</tspan>
+    </text>
+    <rect x="0" y="0" width="285" height="21" fill="#5C832F" stroke="none" transform="translate(775 537)" />
+    <rect x="0" y="0" width="285" height="21" fill="none" stroke="#382513" transform="translate(775 537)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(775 537)">
+      <tspan x="2" y="15">lightNodemodelAxis( osg.createAxisGeometry)</tspan>
+    </text>
+    <ellipse cx="554" cy="516" rx="6" ry="6" fill="#F5F5F5" stroke="none" />
+    <ellipse cx="554" cy="516" rx="6" ry="6" fill="none" stroke="#696969" />
+    <rect x="551" y="516" width="7" height="1" fill="#696969" stroke="none" />
+    <rect x="0" y="0" width="152" height="21" fill="#5C832F" stroke="none" transform="translate(561 568)" />
+    <rect x="0" y="0" width="152" height="21" fill="none" stroke="#382513" transform="translate(561 568)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(561 568)">
+      <tspan x="2" y="15">osg.createAxisGeometry</tspan>
+    </text>
+    <ellipse cx="317" cy="423" rx="6" ry="6" fill="#F5F5F5" stroke="none" />
+    <ellipse cx="317" cy="423" rx="6" ry="6" fill="none" stroke="#696969" />
+    <rect x="314" y="423" width="7" height="1" fill="#696969" stroke="none" />
+    <rect x="0" y="0" width="315" height="21" fill="#5C832F" stroke="none" transform="translate(324 599)" />
+    <rect x="0" y="0" width="315" height="21" fill="none" stroke="#382513" transform="translate(324 599)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(324 599)">
+      <tspan x="2" y="15">lightNodemodelNodeParent2(osg.MatrixTransform)</tspan>
+    </text>
+    <ellipse cx="317" cy="609" rx="6" ry="6" fill="#F5F5F5" stroke="none" />
+    <ellipse cx="317" cy="609" rx="6" ry="6" fill="none" stroke="#696969" />
+    <rect x="314" y="609" width="7" height="1" fill="#696969" stroke="none" />
+    <rect x="317" y="606" width="1" height="3" fill="#696969" stroke="none" />
+    <rect x="317" y="610" width="1" height="3" fill="#696969" stroke="none" />
+    <rect x="0" y="0" width="315" height="21" fill="#5C832F" stroke="none" transform="translate(324 630)" />
+    <rect x="0" y="0" width="315" height="21" fill="none" stroke="#382513" transform="translate(324 630)" />
+    <text fill="#000000" x="2" y="2" font-family="Microsoft YaHei UI" font-size="9pt" transform="translate(324 630)">
+      <tspan x="2" y="15">lightNodemodelNodeParent3(osg.MatrixTransform)</tspan>
+    </text>
+    <ellipse cx="317" cy="640" rx="6" ry="6" fill="#F5F5F5" stroke="none" />
+    <ellipse cx="317" cy="640" rx="6" ry="6" fill="none" stroke="#696969" />
+    <rect x="314" y="640" width="7" height="1" fill="#696969" stroke="none" />
+    <rect x="317" y="637" width="1" height="3" fill="#696969" stroke="none" />
+    <rect x="317" y="641" width="1" height="3" fill="#696969" stroke="none" />
+    <ellipse cx="169" cy="206" rx="6" ry="6" fill="#F5F5F5" stroke="none" />
+    <ellipse cx="169" cy="206" rx="6" ry="6" fill="none" stroke="#696969" />
+    <rect x="166" y="206" width="7" height="1" fill="#696969" stroke="none" />
+  </g>
+</svg>
